@@ -11,6 +11,7 @@ The project had the following requirements:
 - you can use a JSON dataset or REST API to get the definitions of English words;
 
 How it works:
+
 **User Input**  
    - The user types a word into a `QLineEdit` input field.  
    - When the **Search** button is clicked (or later, when Enter is pressed), a function named `show_definitions()` is triggered.
