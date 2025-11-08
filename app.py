@@ -3,7 +3,7 @@ from PyQt6.QtCore import Qt
 from functions import word_result
 
 def clear():
-    if text.text().strip() != "":
+    if result.text().strip() != "":
         text.setText('')
         result.setText('')
         window.adjustSize()
