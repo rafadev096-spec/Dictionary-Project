@@ -1,0 +1,11 @@
+#Virtual environments
+.venv
+venv/
+.venv/
+
+#Python chache
+__pycache__/
+
+#Logs and temp files
+*.log
+*.tmp
